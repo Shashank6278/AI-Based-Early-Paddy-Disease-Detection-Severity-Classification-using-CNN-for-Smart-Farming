@@ -1,0 +1,2 @@
+# AI-Based-Early-Paddy-Disease-Detection-Severity-Classification-using-CNN-for-Smart-Farming
+An AI-driven system leveraging CNN variants for early detection of paddy leaf diseases and severity classification. It analyzes leaf images to deliver accurate, real-time insights, enabling timely intervention, better crop management, and supporting smart agriculture through automated, data-driven monitoring.
